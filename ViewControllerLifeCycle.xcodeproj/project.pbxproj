@@ -417,6 +417,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = ViewControllerLifeCycle/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ease.ViewControllerLifeCycle;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -428,6 +429,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = ViewControllerLifeCycle/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ease.ViewControllerLifeCycle;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -501,6 +503,7 @@
 				7499E0BD1CEFF8EE00F1377F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7499E0BE1CEFF8EE00F1377F /* Build configuration list for PBXNativeTarget "ViewControllerLifeCycleTests" */ = {
 			isa = XCConfigurationList;
@@ -509,6 +512,7 @@
 				7499E0C01CEFF8EE00F1377F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7499E0C11CEFF8EE00F1377F /* Build configuration list for PBXNativeTarget "ViewControllerLifeCycleUITests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +521,7 @@
 				7499E0C31CEFF8EE00F1377F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
