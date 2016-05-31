@@ -78,7 +78,7 @@ static NSString *deviantArtBaseStringUrlString = @"http://backend.deviantart.com
 
 - (NSDictionary *)parametersForQuery:(NSString *)query {
     if (query != nil && query.length > 0) {
-        return [NSDictionary dictionaryWithObjectsAndKeys:@"(query!)", @"q", nil];
+        return [NSDictionary dictionaryWithObjectsAndKeys:query, @"q", nil];
     } else {
         return [NSDictionary dictionaryWithObjectsAndKeys:@"boost:popular", @"q", nil];
     }
