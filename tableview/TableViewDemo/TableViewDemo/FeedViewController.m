@@ -185,7 +185,7 @@ static NSString *deviantArtBaseStringUrlString = @"http://backend.deviantart.com
     } else {
         mediaThumbnail = item.mediaThumbnails[0];
     }
-    // cell.customImageView.image = nil;
+    cell.customImageView.image = nil;
     if (mediaThumbnail.url != nil) {
         [cell.customImageView setImageWithURL:mediaThumbnail.url];
     }
