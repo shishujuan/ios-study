@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Goliath</string>
+		<key>location</key>
+		<string>{34.42635,-118.59712}</string>
+		<key>type</key>
+		<string>1</string>
+		<key>subtitle</key>
+		<string>Intensity: 8/10</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Batman</string>
+		<key>location</key>
+		<string>{34.42581,-118.60089}</string>
+		<key>type</key>
+		<string>1</string>
+		<key>subtitle</key>
+		<string>Intensity: 6/10</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Ridler&apos;s Revenge</string>
+		<key>location</key>
+		<string>{34.42430,-118.60074}</string>
+		<key>type</key>
+		<string>1</string>
+		<key>subtitle</key>
+		<string>Intensity: 6/10</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>X2</string>
+		<key>location</key>
+		<string>{34.42156,-118.59556}</string>
+		<key>type</key>
+		<string>1</string>
+		<key>subtitle</key>
+		<string>Intensity: 10/10</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Tatsu</string>
+		<key>location</key>
+		<string>{34.42150,-118.59741}</string>
+		<key>type</key>
+		<string>1</string>
+		<key>subtitle</key>
+		<string>Intensity: 7/10</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Panda Express</string>
+		<key>location</key>
+		<string>{34.42126,-118.595637}</string>
+		<key>type</key>
+		<string>2</string>
+		<key>subtitle</key>
+		<string>Cost: $$</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Cold Stone</string>
+		<key>location</key>
+		<string>{34.42401,-118.59495}</string>
+		<key>type</key>
+		<string>2</string>
+		<key>subtitle</key>
+		<string>Cost: $</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>First Aid</string>
+		<key>location</key>
+		<string>{34.42640,-118.59918}</string>
+		<key>type</key>
+		<string>3</string>
+		<key>subtitle</key>
+		<string>Call 911 For Emergency</string>
+	</dict>
+</array>
+</plist>
