@@ -1,0 +1,6 @@
+platform :ios, ‘9.0’
+use_frameworks!
+
+target ‘RealmStart’ do
+pod 'Realm', '~> 0.98'
+end
